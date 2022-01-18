@@ -1,1 +1,1 @@
-# Chronometer
+# Chronometer using asynchronous programming
